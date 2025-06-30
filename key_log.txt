@@ -1,0 +1,7 @@
+=== Educational Keylogger Log ===
+DISCLAIMER: This script is for ethical, educational purposes only.
+Log start time: 2025-06-30 17:46:18.508221
+
+[esc]
+
+[Logging stopped by user]
